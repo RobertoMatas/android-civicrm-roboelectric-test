@@ -1,4 +1,8 @@
 android-civicrm-roboelectric-test
 ====================
 
-Bater�a de Test con roboelectric para el proyecto android-civicrm
+Batería de Test con roboelectric para el proyecto android-civicrm.
+
+El código de test se encuentra en la carpeta <em>test</em> del proyecto:
+
+https://github.com/IIIRepublica/android-civicrm/tree/master/test
